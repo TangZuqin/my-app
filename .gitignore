@@ -24,3 +24,5 @@ yarn-error.log*
 .idea/workspace.xml
 my-app.iml
 package-lock.json
+.idea/vcs.xml
+.idea/vcs.xml
